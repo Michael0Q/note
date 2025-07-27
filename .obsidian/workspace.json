@@ -1,0 +1,227 @@
+{
+  "main": {
+    "id": "4e8c38c15c9557ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "8918ddddc6cf045a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd53abaca30acd74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "knowlage/AI/プロンプトエンジニアリング.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "プロンプトエンジニアリング"
+            }
+          },
+          {
+            "id": "0cab9bca93f6673d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "knowlage/AI/特徴量について⭐️.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "特徴量について⭐️"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5f5e27ff57c384a7",
+    "type": "split",
+    "children": [
+      {
+        "id": "a4301c22d588e449",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff62d4ec00444812",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1275d830e63c9f52",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "035159aa29f926e2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 301.50390243530273
+  },
+  "right": {
+    "id": "e909d9e2e4741bfc",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d520f463fe47df0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ba96c19403fe8a5d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Untitled 1.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Untitled 1"
+            }
+          },
+          {
+            "id": "c020909f7807ea95",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Untitled.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Untitled"
+            }
+          },
+          {
+            "id": "4c0276f327132435",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0c23d3c4f007171b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Untitled.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Untitled"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "0cab9bca93f6673d",
+  "lastOpenFiles": [
+    "knowlage/AI/プロンプトエンジニアリング.md",
+    "knowlage/AI/特徴量について⭐️.md",
+    "knowlage/AI/ファインチューニング.md",
+    "knowlage/gcshellでgcsからダウンロード.md",
+    "Untitled",
+    "GEMINI.md",
+    "knowlage/AI/学習.md",
+    "2025-07-26.md",
+    "knowlage/AI/過学習.md",
+    "knowlage/AI/モデルの重みって？⭐️.md",
+    "knowlage/AI/DocumentAIのファインチューニングプロセス.md",
+    "knowlage/AI/アルゴリズム⭐️.md",
+    "knowlage/AI/モデルパフォーマンスの評価.md",
+    "knowlage/AI/モデルの評価で何が起こっているか.md",
+    "Untitled.canvas",
+    "knowlage/ComputerScience/Deskewing.md",
+    "knowlage/AI/モデル.md",
+    "knowlage/ComputerScience/論理的思考力.md",
+    "knowlage/ComputerScience/ベクトル類似度検索.md",
+    "転移学習.md",
+    "Untitled 1.md",
+    "Untitled 1.canvas",
+    "knowlage/機械学習/基礎/1_ワークフロー/クラスタリング.md",
+    "knowlage/機械学習/基礎/1_ワークフロー/回帰.md",
+    "knowlage/機械学習/基礎/1_ワークフロー/強化学習.md",
+    "knowlage/機械学習/基礎/2_データ/データの基本.md",
+    "knowlage/機械学習/基礎/1_ワークフロー/プロジェクト全体像.md",
+    "knowlage/機械学習/基礎/1_ワークフロー/教師なし学習.md",
+    "knowlage/機械学習/基礎/5_数学",
+    "knowlage/機械学習/基礎/4_評価",
+    "knowlage/機械学習/基礎/3_学習",
+    "knowlage/機械学習/基礎/2_データ",
+    "knowlage/機械学習/基礎/1_ワークフロー",
+    "knowlage/機械学習/基礎",
+    "knowlage/機械学習",
+    "knowlage/node.js",
+    "knowlage/ComputerScience",
+    "Untitled 2.canvas"
+  ]
+}
