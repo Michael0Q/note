@@ -1,0 +1,52 @@
+/* 共通padding */
+.bases-td[data-property="note.ステータス"] .multi-select-pill,
+.bases-td[data-property="note.優先度"] .multi-select-pill {
+    padding: 2px 8px;
+}
+
+/* ステータスの色付け */
+.bases-td[data-property="note.ステータス"] .multi-select-pill[data-value="1_進行中"] {
+    background-color: #fef3c7;
+    color: #92400e;
+}
+
+.bases-td[data-property="note.ステータス"] .multi-select-pill[data-value="2_未着手"] {
+    background-color: #f3f4f6;
+    color: #6b7280;
+}
+
+.bases-td[data-property="note.ステータス"] .multi-select-pill[data-value="3_確認待ち"] {
+    background-color: #dbeafe;
+    color: #1e40af;
+}
+
+.bases-td[data-property="note.ステータス"] .multi-select-pill[data-value="4_完了"] {
+    background-color: #d1fae5;
+    color: #065f46;
+}
+
+/* 優先度の色付け（低→高で荘厳に） */
+.bases-td[data-property="note.優先度"] .multi-select-pill[data-value="5_Lowest"] {
+    background-color: #f3f4f6;
+    color: #9ca3af;
+}
+
+.bases-td[data-property="note.優先度"] .multi-select-pill[data-value="4_Low"] {
+    background-color: #e0f2fe;
+    color: #0369a1;
+}
+
+.bases-td[data-property="note.優先度"] .multi-select-pill[data-value="3_Medium"] {
+    background-color: #ede9fe;
+    color: #5b21b6;
+}
+
+.bases-td[data-property="note.優先度"] .multi-select-pill[data-value="2_High"] {
+    background-color: #c4b5fd;
+    color: #3b0764;
+}
+
+.bases-td[data-property="note.優先度"] .multi-select-pill[data-value="1_Highest"] {
+    background-color: #581c87;
+    color: #f5f3ff;
+}
