@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "d8f30d9d8737edf5",
+        "id": "b469c6da2ddb0247",
         "type": "tabs",
         "children": [
           {
-            "id": "325eac862a450854",
+            "id": "02e9945aa4e0419b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "要対応ナレッジ.md",
+                "file": "knowlage/最小公倍数.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "要対応ナレッジ"
-            }
-          },
-          {
-            "id": "d224a4d6e7f64255",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "!LDA（潜在ディリクレ配分）.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "!LDA（潜在ディリクレ配分）"
+              "title": "最小公倍数"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -183,38 +168,37 @@
       "templates:テンプレートを挿入": false,
       "command-palette:コマンドパレットを開く": false,
       "bases:新規ベースを作成": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-kanban:カンバンボードを新規作成": false
     }
   },
-  "active": "d224a4d6e7f64255",
+  "active": "ff62d4ec00444812",
   "lastOpenFiles": [
-    "最小公倍数.md",
-    "knowlage/通分.md",
-    "knowlage/テイラー展開.md",
+    "knowlage/対数オッズ.md",
+    "knowlage/hit@k.md",
+    "knowlage/HyDE（Hypothetical Document Embeddings）.md",
     "要対応ナレッジ.md",
-    "!LDA（潜在ディリクレ配分）.md",
-    "hit@k.md",
-    "!ベクトルの正規化.md",
-    "knowlage/ベクトルの平均.md",
     "ノルム.md",
-    "勾配ブースティング.md",
-    "シグモイド関数.md",
-    "HyDE（Hypothetical Document Embeddings）.md",
-    "BM25.md",
-    "!テイラー展開.md",
-    "Daily/日報2026-07-31.md",
-    "knowlage/JSON-RPC.md",
+    "knowlage/ベクトルの平均.md",
     "knowlage/RPC.md",
-    "Daily/日報2026-07-30.md",
-    "Daily/日報2026-07-29.md",
-    "Daily/日報2026-07-28.md",
-    "対数オッズ.md",
-    "knowlage/JWT（JSON Web Token）.md",
-    "knowlage/指数・べき乗のルール.md",
+    "knowlage/JSON-RPC.md",
+    "BM25.md",
+    "!ベクトルの正規化.md",
+    "!LDA（潜在ディリクレ配分）.md",
+    "勾配ブースティング.md",
+    "knowlage/最小公倍数.md",
     "knowlage/分数の分解・結合ルール.md",
-    "knowlage/対数のルール.md",
     "knowlage/微分の基本ルール.md",
+    "knowlage/通分.md",
+    "knowlage/対数のルール.md",
+    "knowlage/指数・べき乗のルール.md",
+    "knowlage/行列計算（線形代数）のルール.md",
+    "knowlage/交差検証法（cross validation）.md",
+    "knowlage/テイラー展開.md",
+    "knowlage/スタッキング.md",
+    "シグモイド関数.md",
+    "knowlage/?偏微分・多変数の微分.md",
+    "knowlage/JWS（JSON Web Signature）.md",
+    "knowlage/JWT（JSON Web Token）.md",
     "processes",
     "images/Pasted image 20260726101529.png",
     "images/Pasted image 20260726111444.png",
