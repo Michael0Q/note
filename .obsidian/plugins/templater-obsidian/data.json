@@ -1,0 +1,11 @@
+{
+  "templates_folder": "template",
+  "trigger_on_file_creation": true,
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "knowlage",
+      "template": "template/knowledge.md"
+    }
+  ]
+}

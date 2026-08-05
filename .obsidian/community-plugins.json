@@ -2,5 +2,6 @@
   "js-engine",
   "obsidian-tasks-plugin",
   "obsidian-kanban",
-  "dataview"
+  "dataview",
+  "templater-obsidian"
 ]

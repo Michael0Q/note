@@ -1,3 +1,6 @@
+---
+status: 完了
+---
 RPC（Remote Procedure Call）は別のアドレス空間にある手続き処理を呼び出す技術。
 
 

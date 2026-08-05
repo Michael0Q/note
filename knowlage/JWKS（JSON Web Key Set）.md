@@ -1,3 +1,6 @@
+---
+status: 完了
+---
 [[JWS（JSON Web Signature）]]の署名に仕様した公開鍵の一覧。
 
 レスポンス例
