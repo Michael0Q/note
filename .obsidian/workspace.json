@@ -175,6 +175,7 @@
   },
   "active": "04957fb25a8ad869",
   "lastOpenFiles": [
+    "!ベクトルの正規化.md",
     "?勾配ブースティング.md",
     "?LDA（潜在ディリクレ配分）.md",
     "!決定木.md",
@@ -184,7 +185,6 @@
     "!TF-IDF.md",
     "ナレッジステータス.md",
     "template/knowledge.md",
-    "template",
     "knowlage/！評価指標.md",
     "knowlage/！決定木.md",
     "knowlage/！分配法則.md",
@@ -201,7 +201,6 @@
     "knowlage/共分散行列.md",
     "knowlage/共分散.md",
     "knowlage/偏差.md",
-    "knowlage/PCA.md",
     "processes",
     "images/Pasted image 20260726101529.png",
     "images/Pasted image 20260726111444.png",
@@ -216,6 +215,7 @@
     "scripts/status-color.js",
     "scripts",
     "無題のファイル.base",
+    "Todo",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas"
