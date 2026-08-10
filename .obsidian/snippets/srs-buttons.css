@@ -1,0 +1,41 @@
+/* 問題演習の ○/△/× ボタンをパステルカラーにする
+   Meta Bind ボタンの class フィールド（srs-btn-o / srs-btn-tri / srs-btn-x）に対応 */
+
+/* ○: パステルグリーン */
+.srs-btn-o button,
+button.srs-btn-o {
+	background-color: #c8e6c9 !important;
+	color: #2e7d32 !important;
+	border: 1px solid #a5d6a7 !important;
+	box-shadow: none !important;
+}
+.srs-btn-o button:hover,
+button.srs-btn-o:hover {
+	background-color: #b7dcb9 !important;
+}
+
+/* △: 白 */
+.srs-btn-tri button,
+button.srs-btn-tri {
+	background-color: #ffffff !important;
+	color: #555555 !important;
+	border: 1px solid #d0d0d0 !important;
+	box-shadow: none !important;
+}
+.srs-btn-tri button:hover,
+button.srs-btn-tri:hover {
+	background-color: #f2f2f2 !important;
+}
+
+/* ×: パステルレッド */
+.srs-btn-x button,
+button.srs-btn-x {
+	background-color: #ffcdd2 !important;
+	color: #b71c1c !important;
+	border: 1px solid #ef9a9a !important;
+	box-shadow: none !important;
+}
+.srs-btn-x button:hover,
+button.srs-btn-x:hover {
+	background-color: #f8bcc2 !important;
+}
