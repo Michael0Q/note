@@ -1,5 +1,7 @@
 {
   "enabledCssSnippets": [
-    "status-colors"
-  ]
+    "status-colors",
+    "srs-buttons"
+  ],
+  "accentColor": ""
 }
