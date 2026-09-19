@@ -1,0 +1,14 @@
+{
+  "hooks": {
+    "SessionStart": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "\"${CLAUDE_PROJECT_DIR:-/Users/miyasatotsubasa/Obsibian}/.claude/hooks/session-start-rename.sh\""
+          }
+        ]
+      }
+    ]
+  }
+}
